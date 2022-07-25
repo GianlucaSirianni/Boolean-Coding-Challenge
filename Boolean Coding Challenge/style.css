@@ -1,0 +1,65 @@
+body{
+  background-image: url(background.jpg);
+  background-size:cover;
+}
+
+.container{
+  width: 1000px;
+  margin:auto;
+  margin-top: 100px;
+  background: rgba(0, 0, 0, 0.5);
+  background-size: auto;
+  border-style: solid;
+  border-width: 30px;
+  border-color: rgba(0, 0, 0, 0.1);
+
+}
+
+ header, nav{
+     text-align: center;
+ }
+
+.logo{
+  width: 250px;
+
+}
+
+.logo-text{
+  font-size: 20;
+  color: rgba(13,223,5,0.93);
+}
+
+nav{
+  background-color: rgba(13,223,5,0.93);
+  padding: 7px;
+}
+
+span.name {
+  font-size: 30px;
+  font-weight: bold;
+  }
+
+.rectangle-1{
+width: 350px;
+background-color: yellow;
+height: 30px;
+border-radius: 10%;
+}
+
+.rectangle-2{
+width: 650px;
+background-color: rgba(13,223,5,0.93);
+height: 30px;
+border-radius: 10%;
+}
+
+.rectangle-3{
+width: 150px;
+background-color: red;
+height: 30px;
+border-radius: 10%;
+}
+
+span{
+  color: white;
+}
